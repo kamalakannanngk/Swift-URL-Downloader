@@ -27,26 +27,3 @@ Swift URL Downloader is a command-line application that enables users to downloa
 2. If downloading, the app generates a unique ID and starts downloading the file in the background.
 3. The user can pause, resume, or cancel a download using the corresponding ID.
 4. The app tracks progress and displays the status of active downloads asynchronously.
-
-## Example Usage
-```
-Select an Option:
-1. Enter URL to Download
-2. Pause the Download
-3. Resume the Download
-4. Cancel the Download
-5. Check Download Status
-0. Exit
-```
-
-## Future Enhancements
-- Implement a GUI for better user interaction.
-- Add support for concurrent multiple downloads.
-- Enable automatic retries for failed downloads.
-
-## License
-This project is licensed under the MIT License.
-
-## Author
-**Kamala Kannan N G**
-
